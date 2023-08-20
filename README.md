@@ -1,6 +1,7 @@
 # Home-Automation-with-Arduino
 
 Components
+
 ▶︎ Arduino Uno
 
 ▶︎ ESP8266 WiFi module
@@ -14,6 +15,7 @@ Components
 ▶︎ LED lights
 
 ▶︎ Servo motors
+
 
 Features 
 
